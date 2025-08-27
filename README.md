@@ -17,5 +17,5 @@ The goal of this repository is to demonstrate how to create a simple yet functio
 
 It can be used as a learning resource or as a starting point for building more advanced UI components.
 <p align="center">
-  <img src="https://i.imgur.com/abWRLR0.png" alt="Preview" width="600"/>
+  <img src="https://imgur.com/a/abWRLR0" alt="Preview" width="600"/>
 </p>
