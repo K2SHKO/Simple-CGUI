@@ -16,4 +16,7 @@ This project is a lightweight C++ program that renders a custom GUI menu using t
 The goal of this repository is to demonstrate how to create a simple yet functional custom GUI system with WinAPI.
 
 It can be used as a learning resource or as a starting point for building more advanced UI components.
-<img width="410" height="410" alt="image" src="https://github.com/user-attachments/assets/ce6eddb4-bd87-42c5-a7a0-7bf5f7a66253" />
+
+<p align="center">
+  <img width="410" height="410" alt="image" src="https://github.com/user-attachments/assets/ce6eddb4-bd87-42c5-a7a0-7bf5f7a66253" />
+</p>
